@@ -2,7 +2,7 @@
 
 How to build Django To-Do app with PostgreSQL
 
- # Step By Step Explanation
+ # Step By Step Explanation 
 
  
  Video Tutorial : https://youtu.be/Nnoxz9JGdLU
